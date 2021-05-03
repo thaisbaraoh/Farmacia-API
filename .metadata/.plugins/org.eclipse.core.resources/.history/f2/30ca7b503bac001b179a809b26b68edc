@@ -1,0 +1,5 @@
+package com.generation.Farmacia.repository;
+
+public interface CategoriaRepository {
+
+}

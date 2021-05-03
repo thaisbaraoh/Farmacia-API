@@ -1,0 +1,2 @@
+INDEX VERSION 1.131+C:\Users\thais\OneDrive\Área de Trabalho\Farmacia-API\.metadata\.plugins\org.eclipse.jdt.core
+3499446782.index

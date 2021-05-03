@@ -1,0 +1,5 @@
+package com.generation.Farmacia.model;
+
+public interface Produto {
+
+}
